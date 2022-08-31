@@ -1,2 +1,2 @@
-This contains a file which executes to show
-the absolute path of the current working directory
+This contains files which are executeable and improves
+the basic knowledge of shell and shell scripting
